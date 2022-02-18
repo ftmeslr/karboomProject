@@ -86,7 +86,7 @@
 
 <script>
 import axios from "axios";
-import item from "../components/item";
+import item from "./components/item";
 import { v4 as uuidv4 } from "uuid";
 
 export default {
