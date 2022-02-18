@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "title": {
+        "text": "sadsad"
+      },
+      "id": "3d0e05e8-dce9-4bad-9b1d-a4875b61b7be",
+      "description": "lorem ipsum dolor",
+      "img": "https://source.unsplash.com/random",
+      "color": "#00334e"
+    },
+    {
+      "title": {
+        "text": "sdasd"
+      },
+      "id": "8ee6a6da-7e32-4cff-a573-d6bec70c8ae0",
+      "description": "lorem ipsum dolor",
+      "img": "https://source.unsplash.com/random",
+      "color": "#00334e"
+    }
+  ]
+}
